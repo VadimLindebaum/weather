@@ -29,4 +29,12 @@ Käivitamine
 
 2. Salvesta kood faili `weather.py`
 3. Käivita:python weather.py
-4. 
+
+pip install requests
+
+Salvesta kood faili weather.py
+Käivita
+
+python weather.py
+
+
